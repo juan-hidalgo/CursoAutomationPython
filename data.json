@@ -1,0 +1,18 @@
+[
+    {
+        "Id":"1",
+        "Name":"Reginauld",
+        "Lastname":"Attryde",
+        "Email":"rattryde0@trellian.com",
+        "Gender":"Male",
+        "FavColor":"Blue"
+    },
+    {
+        "Id":"2",
+        "Name":"Juan",
+        "Lastname":"Perez",
+        "Email":"juanperez@mail.com",
+        "Gender":"Male",
+        "FavColor":"Red"
+    }
+]

@@ -1,4 +1,4 @@
-Vimos un  Scenario Outline, pero podría ser solamente Scenario si no usamos variables.
+# Vimos un  Scenario Outline, pero podría ser solamente Scenario si no usamos variables.
 
     Scenario Outline: Test del titulo
         Given ingreso a la web Don Bosco
@@ -12,7 +12,6 @@ Vimos un  Scenario Outline, pero podría ser solamente Scenario si no usamos var
     | Don Pepe Labs  |
 
 Si se usan más de una variable se utiliza este formato:
-    
     Examples:
     | mi_titulo      | mi_otra_var |
     | Don Juan       | 1254        |
